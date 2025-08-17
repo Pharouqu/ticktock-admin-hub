@@ -31,8 +31,8 @@ const Index = () => {
           Admin Hub
         </h1>
         <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-          Streamline your support workflow with our comprehensive ticketing system. 
-          Create, track, and resolve issues efficiently.
+          testing my changes, to see if it works
+.
         </p>
         <div className="flex gap-4 justify-center">
           <Button size="lg" onClick={() => navigate('/auth')}>
